@@ -126,7 +126,7 @@ payload:
   - DOMAIN-SUFFIX,uplay.com
 #  - PROCESS-NAME-REGEX,(?i).*Rockstar.* # Rockstar
 #  - PROCESS-NAME-REGEX,(?i).*SocialClub.* # Rockstar Social Club
-#  - PROCESS-NAME-REGEX,(?i).*Epic.* # Epic Games
+  - PROCESS-NAME-REGEX,(?i).*Epic.* # Epic Games
 #  - PROCESS-NAME-REGEX,(?i).*Steam.* # Steam
 #  - PROCESS-NAME-REGEX,(?i).*Battle.net.* # Battle.net
   - PROCESS-NAME,agent.exe
