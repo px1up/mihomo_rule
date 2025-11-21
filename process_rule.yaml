@@ -1,5 +1,9 @@
 payload:
 
+  # Fortnite
+  - PROCESS-NAME,Fortnite.exe
+  - PROCESS-NAME,FortniteLauncher.exe
+  
   # Aimbeast (тренировочный шутер)
   - PROCESS-NAME,Aimbeast.exe # Aimbeast launcher
   - PROCESS-NAME,Aimbeast-Win64-Shipping.exe # Aimbeast itself
