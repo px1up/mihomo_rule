@@ -3,6 +3,9 @@ payload:
   # Fortnite
   - PROCESS-NAME,Fortnite.exe
   - PROCESS-NAME,FortniteLauncher.exe
+  - DOMAIN-SUFFIX,epicgames.dev:443
+  - DOMAIN-SUFFIX,epicgames.com:443
+  
   
   # Aimbeast (тренировочный шутер)
   - PROCESS-NAME,Aimbeast.exe # Aimbeast launcher
