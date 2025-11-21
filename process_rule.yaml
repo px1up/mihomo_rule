@@ -132,6 +132,7 @@ payload:
   - PROCESS-NAME,agent.exe
 #  - PROCESS-NAME-REGEX,(?i).*Origin.* # Origin
 #  - PROCESS-NAME-REGEX,(?i).*EA.* # EA
+  - PROCESS-NAME,discord.exe
 
 
 
