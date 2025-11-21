@@ -5,6 +5,8 @@ payload:
   - PROCESS-NAME,FortniteLauncher.exe
   - DOMAIN-SUFFIX,epicgames.dev:443
   - DOMAIN-SUFFIX,epicgames.com:443
+  - DOMAIN-SUFFIX,epicgames.dev:443
+  - DOMAIN-SUFFIX,akamaized.net
   
   
   # Aimbeast (тренировочный шутер)
