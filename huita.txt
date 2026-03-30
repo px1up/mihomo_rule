@@ -53,3 +53,63 @@ vklive.app
 vkmessenger.app
 vkmessenger.com
 mradx.net
+# === ОСНОВНЫЕ ДОМЕНЫ MAX ===
+domain:max.ru
+domain:platform-api.max.ru
+domain:dev.max.ru
+domain:st.max.ru
+
+# === VK INFRASTRUCTURE ===
+domain:vk.com
+domain:vk.ru
+domain:vkontakte.ru
+domain:vk.me
+domain:vk.cc
+domain:vk.link
+domain:vk.team
+domain:vk.company
+domain:vk.design
+domain:vk.video
+domain:vkvideo.ru
+domain:vkcache.com
+domain:vk-cdn.net
+domain:vk-cdn.me
+domain:cdn-vk.ru
+domain:vkcloud-static.ru
+domain:vk-portal.net
+domain:vk-analytics.ru
+domain:vk-apps.com
+domain:vk-apps.ru
+
+# === MEDIA & CDN ===
+domain:userapi.com
+domain:vkuser.net
+domain:vkuseraudio.com
+domain:vkuseraudio.net
+domain:vkuseraudio.ru
+domain:vkuservideo.com
+domain:vkuservideo.net
+domain:vkuservideo.ru
+domain:vkuserphoto.ru
+domain:vkusercdn.ru
+domain:vkuserlive.net
+domain:mycdn.me
+
+# === OK.RU / TAMTAM INFRA ===
+domain:api.ok.ru
+domain:api.odnoklassniki.ru
+domain:welcome.tamtam.chat
+domain:mradx.net
+
+# === PUSH & NOTIFICATIONS ===
+domain:firebase.googleapis.com
+domain:*.huawei.com
+domain:apple.com
+
+# === WEBRTC / CALLS ===
+# STUN/TURN серверы (если используются поддомены)
+domain:stun.max.ru
+domain:turn.max.ru
+# Если используются общие — раскомментируйте при необходимости:
+# domain:stun.*.ru
+# domain:turn.*.ru
