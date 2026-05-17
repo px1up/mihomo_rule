@@ -7,3 +7,4 @@ s3.yandex.net
 cdn.yandex.ru
 strm.yandex.ru           # Потоковое аудио
 strm.yandex.net
+rtc-strm.yandex.ru
