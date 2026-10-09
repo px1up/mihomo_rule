@@ -9,3 +9,4 @@ jtvnw.net
 amazon-adsystem.com
 cloudfront.net
 ttvnw.net
+usher.ttvnw.net
